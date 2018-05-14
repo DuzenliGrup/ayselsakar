@@ -1,1 +1,2 @@
-AyselSakar
+Html dizin indexi, ikinci, ikinci_2, ikinci_3, ikinci_4, ucuncu_1, ucuncu_2, ucuncu_3, ucuncu_4, ucuncu_4_2, ucuncu_5, ucuncu_6, ucuncu_7, ucuncu_8, ucuncu_9 adým html dosyalarý eklendi.(14.05.2018)
+Varlýklar/CSS dizin stili, style_1, style_2, style_3, style_4, style_7, style_8, style_9 isimleriyle CSS dosyalarý eklendi.(14.05.2018)
